@@ -1,4 +1,9 @@
 # CarND-Controls-PID
+
+[image1]: ./assets/pid.gif "PID implemented with the Sim"
+
+
+![alt text][image1]
 ---
 
 ## Dependencies
